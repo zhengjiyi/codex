@@ -1,0 +1,226 @@
+{
+  "id": "1028037",
+  "name": "codex",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "122688",
+      "name": "back",
+      "font_class": "left",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "122702",
+      "name": "less",
+      "font_class": "up",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "122703",
+      "name": "more_unfold",
+      "font_class": "down",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "122704",
+      "name": "more",
+      "font_class": "right",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "338303",
+      "name": "微信",
+      "font_class": "wechat",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "489974",
+      "name": "check_box_outline_blank",
+      "font_class": "checkbox",
+      "unicode": "ead5",
+      "unicode_decimal": 60117
+    },
+    {
+      "icon_id": "560665",
+      "name": "e-mail",
+      "font_class": "email",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "806163",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "845854",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "924516",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e941",
+      "unicode_decimal": 59713
+    },
+    {
+      "icon_id": "1117967",
+      "name": "英文语言",
+      "font_class": "en",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "1117971",
+      "name": "中文语言",
+      "font_class": "cn",
+      "unicode": "e7a0",
+      "unicode_decimal": 59296
+    },
+    {
+      "icon_id": "1265470",
+      "name": "电话",
+      "font_class": "phone",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1288647",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1311769",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1327494",
+      "name": "QQ",
+      "font_class": "qq",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1388135",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "1410253",
+      "name": "check-box-outline",
+      "font_class": "checkbox-checked",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1422575",
+      "name": "传真",
+      "font_class": "chuanzhen",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "1433729",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "1727428",
+      "name": "207问题",
+      "font_class": "question",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    },
+    {
+      "icon_id": "1975329",
+      "name": "订单",
+      "font_class": "order",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "2038452",
+      "name": "ERP_购物车",
+      "font_class": "cart",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "2742669",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "3703978",
+      "name": "list",
+      "font_class": "list",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "4896836",
+      "name": "活动，礼物",
+      "font_class": "gift",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "4974166",
+      "name": "网站",
+      "font_class": "web",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "5297134",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "5755532",
+      "name": "用户-粗线条",
+      "font_class": "user1",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "6399662",
+      "name": "电话",
+      "font_class": "tel",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7239513",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    }
+  ]
+}

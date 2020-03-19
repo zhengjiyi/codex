@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+  <meta name="keywords" content="豪度,CODEX,豪度表,豪度手表,豪度腕表,瑞士豪度,瑞士豪度表" />
+  <meta name="description" content="CODEX豪度手表,瑞士新锐腕表品牌,探索豪度腕表不同系列,从永恒,经典等.CODEX豪度手表均于瑞士制造." />
+  <link rel="icon" href="<%= BASE_URL %>frontend-assets/img/logo-x.png">
+  <meta name="site" content="http://demo.oramage.com" />
+  <link rel="stylesheet" href="<%= BASE_URL %>frontend-assets/iconfont/iconfont.css">
+  <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.13&key=a7b992150caafd4adcf97afff53b35d3"></script>
+  <title>CODEX豪度手表官方网站-瑞士新锐腕表品牌</title>
+  <style>
+    .loading-scene {
+      position: fixed;
+      z-index: 120141223;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #595757;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    @-webkit-keyframes loading-rotate {
+      from {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: rotate3d(0, 0, 1, -360deg);
+        transform: rotate3d(0, 0, 1, -360deg);
+      }
+
+      to {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: translate3d(0, 0, 360deg);
+        transform: translate3d(0, 0, 360deg);
+      }
+    }
+
+    @keyframes loading-rotate {
+      from {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: rotate3d(0, 0, 1, -360deg);
+        transform: rotate3d(0, 0, 1, -360deg);
+      }
+
+      to {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: translate3d(0, 0, 360deg);
+        transform: translate3d(0, 0, 360deg);
+      }
+    }
+
+    .loading-logo {
+      width: 60px;
+      height: 60px;
+      -webkit-animation-name: loading-rotate;
+      animation-name: loading-rotate;
+      -webkit-animation-duration: 1s;
+      animation-duration: 1s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      -webkit-animation-iteration-count: infinite;
+      animation-iteration-count: infinite;
+      -webkit-animation-timing-function: ease-in-out;
+      animation-timing-function: ease-in-out;
+    }
+
+    .loading-progress-bar {
+      width: 250px;
+      box-sizing: border-box;
+      height: 6px;
+      /* Can be anything */
+      position: relative;
+      margin: 60px 0 20px 0;
+      /* Just for demo spacing */
+      background: #000;
+      -moz-border-radius: 25px;
+      -webkit-border-radius: 25px;
+      border-radius: 25px;
+      padding: 1px;
+      -webkit-box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+      -moz-box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+      box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+    }
+
+    .loading-progress-bar>span {
+      display: block;
+      height: 100%;
+      -webkit-border-top-right-radius: 8px;
+      -webkit-border-bottom-right-radius: 8px;
+      -moz-border-radius-topright: 8px;
+      -moz-border-radius-bottomright: 8px;
+      border-top-right-radius: 8px;
+      border-bottom-right-radius: 8px;
+      -webkit-border-top-left-radius: 20px;
+      -webkit-border-bottom-left-radius: 20px;
+      -moz-border-radius-topleft: 20px;
+      -moz-border-radius-bottomleft: 20px;
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
+      background-color: #fff;
+      background-image: -webkit-gradient(linear,
+        left bottom,
+        left top,
+        color-stop(0, #fff),
+        color-stop(1, #fff));
+      background-image: -moz-linear-gradient(center bottom,
+        #fff 37%,
+        #fff 69%);
+      -webkit-box-shadow:
+        inset 0 2px 9px rgba(255, 255, 255, 0.3),
+        inset 0 -2px 6px rgba(0, 0, 0, 0.4);
+      -moz-box-shadow:
+        inset 0 2px 9px rgba(255, 255, 255, 0.3),
+        inset 0 -2px 6px rgba(0, 0, 0, 0.4);
+      box-shadow:
+        inset 0 2px 9px rgba(255, 255, 255, 0.3),
+        inset 0 -2px 6px rgba(0, 0, 0, 0.4);
+      position: relative;
+      overflow: hidden;
+      transition: width 0.5s;
+    }
+
+    .loading-progress-bar>span:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      background-image:
+        -webkit-gradient(linear, 0 0, 100% 100%,
+        color-stop(.25, rgba(255, 255, 255, .2)),
+        color-stop(.25, transparent), color-stop(.5, transparent),
+        color-stop(.5, rgba(255, 255, 255, .2)),
+        color-stop(.75, rgba(255, 255, 255, .2)),
+        color-stop(.75, transparent), to(transparent));
+      background-image:
+        -moz-linear-gradient(-45deg,
+        rgba(255, 255, 255, .2) 25%,
+        transparent 25%,
+        transparent 50%,
+        rgba(255, 255, 255, .2) 50%,
+        rgba(255, 255, 255, .2) 75%,
+        transparent 75%,
+        transparent);
+      z-index: 1;
+      -webkit-background-size: 50px 50px;
+      -moz-background-size: 50px 50px;
+      background-size: 50px 50px;
+      -webkit-animation: loading-move 2s linear infinite;
+      animation: loading-move 2s linear infinite;
+      -webkit-border-top-right-radius: 8px;
+      -webkit-border-bottom-right-radius: 8px;
+      -moz-border-radius-topright: 8px;
+      -moz-border-radius-bottomright: 8px;
+      border-top-right-radius: 8px;
+      border-bottom-right-radius: 8px;
+      -webkit-border-top-left-radius: 20px;
+      -webkit-border-bottom-left-radius: 20px;
+      -moz-border-radius-topleft: 20px;
+      -moz-border-radius-bottomleft: 20px;
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
+      overflow: hidden;
+    }
+
+    @-webkit-keyframes loading-move {
+      0% {
+        background-position: 0 0;
+      }
+
+      100% {
+        background-position: 50px 50px;
+      }
+    }
+
+    @keyframes loading-move {
+      0% {
+        background-position: 0 0;
+      }
+
+      100% {
+        background-position: 50px 50px;
+      }
+    }
+
+    .nostripes>span:after {
+      -webkit-animation: none;
+      animation: none;
+      background-image: none;
+    }
+  </style>
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but codex-vue doesn't work properly without JavaScript enabled. Please enable it to
+      continue.</strong>
+  </noscript>
+  <div id="app">
+  </div>
+  <div id="init-loading-scene" class="loading-scene">
+    <img src="<%= BASE_URL %>frontend-assets/img/logo-x-white.png" class="loading-logo">
+    <div class="loading-progress-bar nostripes">
+      <span id="init-progress-value" style="width: 0%"></span>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      var progressInterval = setInterval(function () {
+        var ele = document.getElementById('init-progress-value');
+        if (!ele) {
+          clearInterval(progressInterval);
+          return;
+        }
+        var w = parseInt(ele.style.width);
+        ele.style.width = w + 1 + '%';
+        if (w > 85) {
+          clearInterval(progressInterval);
+          return;
+        }
+      }, 200);
+    })();
+  </script>
+
+  <!-- built files will be auto injected -->
+</body>
+
+</html>

@@ -1,0 +1,301 @@
+{
+  "btn": {
+    "share": "Share",
+    "buy": "Buy",
+    "menu": "Menu",
+    "close": "Close",
+    "clear": "Clear",
+    "all": "View All",
+    "more": "More",
+    "next": "Next",
+    "prev": "Prev",
+    "filter": "Filter",
+    "download": "Download",
+    "read": "Read",
+    "search": "Search",
+    "p_country": "Select Country",
+    "p_city": "Select City",
+    "ok": "OK"
+  },
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "simpleSeries": "Series",
+    "series": "Product Series",
+    "allSeries": "All Series",
+    "allGoods": "All Products",
+    "about": "Brand Story",
+    "history": "History Culture",
+    "craft": "Watchmaking Craftmanship",
+    "news": "Brand Dynamics",
+    "services": "Service Center",
+    "afterSale": "After-sale Service",
+    "legal": "Legal Notices",
+    "questions": "Frequently Asked Question",
+    "contactUs": "Contact Us",
+    "contactMethods": "Contact Information",
+    "joinUs": "Join Us",
+    "shops": "Sales Network",
+    "allShops": "All Shops",
+    "followUs": "Follow Us",
+    "facebook": "Facebook",
+    "twitter": "Instagram",
+    "weibo": "Weibo",
+    "wechat": "Wechat",
+    "qq": "QQ"
+  },
+  "footer": {
+    "copyright": "© 2018 CODEX. All rights reserved"
+  },
+  "home": {
+    "intro": {
+      "slogen": [
+        "CODEX",
+        "An Exceptional Explorer"
+      ],
+      "desc": [
+        "Codex creates a timeless and reliable time keeper with high quality and fine workmanship that express your own philosophy of aesthetic. ",
+        "A Codex watch will accompany you to explore and experience the beautiful moment in life journey."
+      ]
+    },
+    "series": "Product Series",
+    "brand": {
+      "title": "About CODEX",
+      "about": "History Culture",
+      "craft": "Watchmaking Craftmanship",
+      "desc": [
+        "Therefore, our symbol of the 'X' code in every single CODEX's watch is to be your motivation to experience, to explore , to achieve and to enjoy."
+      ],
+      "desc2": [
+        "Extremely visual pleasure and superb design.",
+        "Pursue for the extreme accurate craft"
+      ]
+    },
+    "store": {
+      "title": "Shop Address",
+      "desc": "Search for nearby retailers",
+      "search": "Search"
+    }
+  },
+  "search": {
+    "watch": "Watches",
+    "needHelp": "Need help?",
+    "keywordPlaceholder": "Input keywords"
+  },
+  "shops": {
+    "selectCountryAndCity": "Select Country / Area",
+    "searchNearby": "Search for nearby retailers",
+    "searchAll": "Search All Shops",
+    "allCountry": "All Nations",
+    "allCity": "All Cities",
+    "address": "Address",
+    "tel": "Phone",
+    "time": "Time"
+  },
+  "series": {
+    "notFound": "No series of watches are available."
+  },
+  "contact": {
+    "fax": "Fax",
+    "tel": "Telephone",
+    "address": "Company address",
+    "hotline": "Service Hotline",
+    "swiss": "Codex Suisse SA",
+    "shenzhen": "Codex Watch China Shenzhen"
+  },
+  "goods": {
+    "model": "Model: ",
+    "unit": "CHF",
+    "priceType": "Retail price",
+    "params": {
+      "name": "Description",
+      "jx": "Types Of Movement",
+      "gn": "Movement Function",
+      "bk": "Case Material",
+      "bkzj": "Case Diameter",
+      "bj": "Glass Material",
+      "bd": "Watchband Material",
+      "dg": "Bottom",
+      "bp": "表盘",
+      "fs": "Waterproof"
+    },
+    "relative": "Relative Products"
+  },
+  "tips": {
+    "name": "Tips",
+    "todo": "Functions are being improved, please stay tuned.",
+    "switchLang": "您即将切换到中文网站，是否继续?",
+    "seitchLangSureBtn": "继续",
+    "seitchLangCancelBtn": "取消",
+    "scanQR": "Scan a QR code to follow"
+  },
+  "history": {
+    "title": "History Culture",
+    "desc": [
+      "Mountain Valley of  Jura is one of the most historical watch-making centers. Numbers of established watch-making centers have been born and developing there. Many of the famous watchmaking manufacturers are gathering in this magnificent place.",
+      "Everything has its own rules here. Without following them,  things wouldn't be easy.",
+      "However, with the passion for more original ideas, a group of free soul created CODEX.",
+      "Owing to various reasons, people cannot chase the limitless unknown fantasy of the world.",
+      "Therefore, our symbol of the 'X' code in every single CODEX's watch is to be your motivation to experience, explore and to enjoy the inexperienced yet beautiful moments in life time."
+    ],
+    "section1": {
+      "desc": [
+        "The town of Le Noirmont the watchmaking center that perfectly combines modern technology and art.",
+        "As the core area of modern Swiss watch industry and one of the three watchmaking towns, Le Noirmont emerged many contemporary famous watch brand since the mid-19th century. So far, Le Noirmont has become a town with strong watchmaking culture. Combined with production lines of multiple factories and the elements of the French New Wave Art in the 1960s and 1970s, Le Noirmont is definitely a modern watchmaking center with technology and art. Therefore, the headquarter of CODEX is located in Rue des Perrières 8, CH2340 Le Noirmont. Combined the strong and long-standing watchmaking culture with the unique watchmaking idea, CODEX is able to encourage people to explore deeply into the higher level of watchmaking."
+      ]
+    },
+    "section2": {
+      "desc": [
+        ""
+      ]
+    },
+    "section3": {
+      "desc": [
+        "There are two definitions for CODEX. CODEX in ancient English, means' The precious handwritten manuscript that contents history, technology, culture and law documents in human history'. It is the earliest record carrier for human beings to explore the material world and spiritual world. Also, modern fashion trend gives CODEX a new definition 'CODE X' which is defined as 'X Code' . It is the password that leads to the great experience when represents the various difficulties on the way to the good things."
+      ]
+    },
+    "section4": {
+      "desc": [
+        "The two definition are paralleled with CODEX's connotation and goal. Therefore, our symbol of the 'X' code in every single CODEX's watch is to be your motivation to experience, to explore , to achieve and to enjoy."
+      ]
+    }
+  },
+  "craft": {
+    "title": "The adventure of CODEX",
+    "desc": [
+      "CODEX is devoted to design and produce the Swiss watch of detailed craft and high quality that meet your needs. We are willing to consider the watchmaking process as an adventure. After abandoning the stubborn rules, breaking through the tough difficulties and conquering one after another mountains, CODEX are able to present the best to the universe."
+    ],
+    "section1": {
+      "title": "Extremely visual pleasure and superb design",
+      "desc": [
+        "From the first step of inspiration, the designers focus on the goal to create a watch mixed with passion, time, perfect craft and unique style. Thus, CODEX is impressive for its strict control of detail, the reliability of Swiss watchmaking craft and the sincere emotion. The wearer may be deeply moved by the passion of time that shown from the watch on their hands."
+      ]
+    },
+    "section2": {
+      "title": "Pursue for the extreme accurate craft",
+      "desc": [
+        "In addition to the 'SWISS MADE' worldwide recognized quality label, every single CODEX's watch is exposed to strict QC to confirm the high quality. What's more, we promise the customer a two-year guarantee for the quality of the watch. As a rising new brand, CODEX would maintain the high quality and unique style. Each of the watch is the guarantee of 'SWISS MADE' and precise craft."
+      ]
+    },
+    "section3": {
+      "title": "CODEX Antique Movement VENUS203",
+      "desc": [
+        "The Venus203 movement, which is carefully polished by 69 procedures by hands, is originated from Swiss classic movement in the 1950s to 1960s. At present, there are only about 200 movements in the world, all of which have been acquired by CODEX. And CODEX Identity series is impressive because of the history elements that injected into. There won't be any function problems on operation even for 50 years of history. With perfect operation and week & date indication, also equipped with hand-carved craft moon phase disk, hollow dial and circular grain of the perspective movement, CODEX is able to be the noble symbol of identity."
+      ]
+    },
+    "section4": {
+      "title": "CODEX Skeleton Caliber CX8131",
+      "desc": [
+        "The CODEX in-house movement CX8131 is created under the careful regulations of the Swiss watchmakers, the details on polishing the plates, on finishing the gears and wheels are extremely precise that required hundreds of repeating procedures. And finally provides the incredible visual impact on the design and finishing that also carries accurate and durable function.",
+        "The biggest feature of the CX8131 is the superb skeleton techniques that beautifully presents the functioning of the movement. With the vivid motion appearance on the wrist, wearer can easily appreciate the vital power of the movement, with the rhodium plated plates and blue-steel screws, the 'CX8131 is perfectly demonstrating' the beauty of mechanics."
+      ]
+    },
+    "section5": {
+      "title": "CODEX GTM CX8108",
+      "desc": [
+        "In the modern watch industry, the dual time(GMT) movement provides a very important function for business persons/travelers: in one dial it shows the time of two places.",
+        "The in-house GMT movement developed by CODEX ensures accuracy while providing GMT functions, allowing international tourists to master accurate time and not be trapped by time zone switching troubles.",
+        "Just by pulling out the crown and you can adjust the hour hand without stopping the second hand, without affecting the accuracy of the movement. Removing the normal GMT hour hand indication, the CODEX GMT applies a 24-hour dial to display the second time zone. It allows the wearer read the time more efficiently. Time can be recognized in an instant even across the world."
+      ]
+    }
+  },
+  "afterSale": {
+    "section1": [
+      "The CODEX wristwatches you purchased are all made by exquisite craft with strict quality control, which have passed various tests to ensure its waterproof and good performance. ",
+      "Moreover, we would promise you the quality assurance service within 36 months for all functional issues caused by production defect since the day you purchase.",
+      "During the shelf life, you have the authority to use your warranty card to repair the functional defect for free. If the repair doesn't work, we would offer you a new wristwatch the same as your old one or a similar one which is guaranteed with 36 months shelf life for you."
+    ],
+    "section2": [
+      "Not Involved：",
+      "1、Normal wear and aging(eg:surface scratch, shedding of electroplate and non-metallic changes).",
+      "2、Any component damages caused by improper use, lack of maintenance, man-made negligence and accidents.",
+      "3、Any component damages caused by not following the user's guidelines.",
+      "4、Dismantled by non-brand  authorized people(eg:changing battery, repair and maintenance), or changed to its original state but not within CODEX's control."
+    ],
+    "section3": {
+      "p1": "You can learn more information of your watch by our website:",
+      "web1": "www.codex-watch.ch"
+    },
+    "section4": {
+      "p1": "Service Hotline：",
+      "tel1": "400-873-7518",
+      "or": " / ",
+      "tel2": "0755-23575458"
+    }
+  },
+  "fqa": [
+    {
+      "q": "How can I maintain/clean my CODEX watch?",
+      "a": "You can preserve it shiny by cleaning it occasionally with a microfiber cloth. You can also wash the case and bracelet. (except leather straps) from time to time using soapy water and a soft brush. After wearing your watch in the sea, it is important to rinse it with fresh water to remove any salt and sand deposits. "
+    },
+    {
+      "q": "How can I remove scratches from my CODEX",
+      "a": "Professional polishing of your watch case and bracelet should only be done by an Official CODEX Service Centre"
+    },
+    {
+      "q": "How do I change the time on my CODEX?",
+      "a": "CODEX watches can be set by unscrewing the crown and pulling it out to the second notch. The seconds hand is stopped, allowing you to set the time. Each model has its own detailed user guide and functions that may vary, please download the appropriate guide."
+    },
+    {
+      "q": "How deep can I dive with a CODEX?",
+      "a": "All CODEX wristwatches are waterproof to depths of at least 100 metres for Oyster Perpetual models, and 50 metres for Cellini models. Some Oyster watches can withstand depths of 1,220 or even 3,900 metres. To maintain your watch's waterproofness, the winding crown has to be screwed down tightly to create a hermetic seal. When you reset the time, the date or other functions or wind the watch manually, it is extremely important to ensure that you have screwed down the winding crown until it cannot turn any further. After wearing your watch in the sea, it is important to rinse it with fresh water to remove any salt and sand deposits."
+    },
+    {
+      "q": "Can I go to the gym with my CODEX?",
+      "a": "You can play sports with a CODEX on your wrist as the CODEX Oyster case provides the watch movement with optimal protection against shocks. All CODEX wristwatches are waterproof to depths of at least 100 metres for Oyster Perpetual models, and 50 metres for Cellini models."
+    },
+    {
+      "q": "Can I wear my CODEX in the snow?",
+      "a": "CODEX watches have proved themselves from the start in the most extreme conditions imaginable – from the depths of the deepest oceans to the summits of the highest mountains, in the air and on the race track. Moreover, to ensure that all CODEX watches can live up to these high expectations, every single one is tested to extremes before it is allowed to leave the CODEX site."
+    },
+    {
+      "q": "Why does my CODEX not keep the accurate time?",
+      "a": "Your CODEX's 'heart' will be influenced by your unique lifestyle and real-life usage. Please contact your nearest Official CODEX Retailer or Service Centre, which will advise you on all the technical aspects of your watch's functions."
+    }
+  ],
+  "legal": {
+    "s1": [
+      "All products displayed on the Website may be available at Official CODEX Retailers."
+    ],
+    "s2": [
+      "CODEX reserves the right at all times to modify its models featured on the Website. While CODEX has tried to accurately display shapes and colours of its products on the Website, they mostly depend on your monitor and may therefore be perceived differently.",
+      "Any addition or substitution of parts or accessories with those not manufactured by CODEX, as well as any alteration, modification or other material change made to or on CODEX products by a third party not authorised by CODEX cancels the warranty. CODEX does not approve any modification made by non-authorised third parties on the CODEX products, including the addition of verbal and graphic elements, as well as any customisation activity (such as black coated watches, the addition of aftermarket diamonds, bezels, dials and bracelets etc.). These modifications may harm the quality and the integrity of the CODEX products.",
+      "All intellectual property rights such as trademarks, trade names, designs and copyrights are reserved and are exclusively owned by CODEX."
+    ],
+    "t3": "Terms of Use",
+    "s3": [
+      "Your access and use of the website CODEXWATCH.COM (the 'Website') is subject to the following terms and conditions and all applicable laws. By accessing and browsing the Website, you accept without limitation or qualification this Terms of Use Agreement."
+    ],
+    "t4": "CODEX's Copyrights and Trademarks",
+    "s4": [
+      "CODEX owns the Website. CODEX owns or has rights to all of the wallpaper, icons, characters, artwork, images, graphics, music, text, videos, software and other content of the Website (the \"Content\"), and all HTML, CGI and other code and scripts in any format used to implement the Website (the \"Code\"). The Content and Code of the Website are protected by copyright. Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution to third parties for commercial purposes, or otherwise distribute any Code or Content from the Website without the prior written agreement of CODEX. You may not use the Content or Code from the Website for any purpose other than those set forth herein.",
+      "All names, logos and trademarks which appear on the Website are the property of CODEX. You may not use them in any manner which is likely to cause confusion or in any other way without the prior express written permission from CODEX.",
+      "Your failure to comply with this Terms of Use Agreement will constitute breach of contract and will violate CODEX's copyright, trademark and other proprietary and intellectual property rights. You may print in hard copy portions of the Website for non-commercial purposes only."
+    ],
+    "t5": "Liability:No Warranties or Representations",
+    "s5": [
+      "While CODEX makes its best efforts to include accurate and up to date information on the Website, it makes no warranties or representations with respect to the content of the Website, which is provided \"as is\". To the fullest extent permitted by law, CODEX shall not be liable in any manner for direct, indirect, incidental, consequential, loss of data, income or profit, punitive damages and/or claims of third parties resulting from the use of, access to, or inability to use the information and/or the products offered on the Website or any damages arising out of or in connection with the use of the Website. Furthermore, CODEX assumes no responsibility and shall not be liable for any damages to or viruses that may infect your computer equipment or other property on account of your access to, use of or browsing in the Website or your downloading of information from the Website.",
+      "The invalidity of any term, condition or provision of the Terms of Use Agreement shall not affect the enforceability of those portions of the Terms of Use Agreement deemed enforceable by applicable courts of law."
+    ],
+    "t6": "Privacy",
+    "s6": [
+      "Please read the Privacy Policy which governs the manner in which Rolex will handle any personal information that you provide."
+    ],
+    "t7": "Links and Third Party Websites",
+    "s7": [
+      "CODEX is not responsible for the content of any site linked to or from the Website. Linking to any other website is entirely at a user's own risk. While CODEX may provide links on the Website to other sites, the inclusion of such links is solely for the convenience of the user. CODEX makes no representations and disclaims all warranties, express and implied, as to the accuracy, validity, suitability, legality or otherwise of any materials or information contained on such sites."
+    ],
+    "t8": "Revisions",
+    "s8": [
+      "CODEX may at any time revise the terms and conditions contained in the Terms of Use Agreement by updating this posting. You accept any revisions and should periodically visit this page to review the current terms and conditions which apply to your use of the Website."
+    ],
+    "t9": "Jurisdiction",
+    "s9": [
+      "Any dispute over the content or use of the Website shall be governed by the substantive laws of Switzerland and the jurisdiction and venue of any such action shall be vested solely before the ordinary courts of the Canton of Geneva."
+    ],
+    "s10": [
+      "This Terms of Use Agreement was last updated January 2019.",
+      "© CODEX, 2018 All Rights Reserved."
+    ]
+  }
+}
